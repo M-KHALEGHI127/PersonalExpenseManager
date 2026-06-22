@@ -7,6 +7,16 @@ This project is a personal expense management application developed using C# and
 
 The main goal of this project is to practice object-oriented programming concepts, user interface design, data management, and file handling.
 
+## Screenshots
+
+### Login Form
+
+![Login](Screenshots/Login.png)
+
+### Main Form
+
+![Main Form](Screenshots/MainForm.png)
+
 ### Features
 
 - User Login
