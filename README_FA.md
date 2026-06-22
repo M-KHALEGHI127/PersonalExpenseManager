@@ -1,6 +1,5 @@
-# Expense Manager - WinForms
+# PersonalExpenseManager
 
-## فارسی
 
 ### معرفی پروژه
 
