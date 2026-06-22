@@ -39,3 +39,7 @@ The main goal of this project is to practice object-oriented programming concept
 - DataGridView Usage
 - File Operations
 - Windows Forms Development
+
+### Note
+
+This project was developed as a learning project.
