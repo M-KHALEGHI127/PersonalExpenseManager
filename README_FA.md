@@ -8,6 +8,17 @@
 
 هدف از ساخت این پروژه تمرین مفاهیم برنامه‌نویسی شی‌گرا، کار با فرم‌ها، مدیریت داده‌ها و ذخیره‌سازی اطلاعات در فایل بوده است.
 
+
+
+### Login Form
+
+![Login](Manager/Manager/Screenshots/Login.png)
+
+### Main Form
+
+![Main Form](Manager/Manager/Screenshots/MainForm.png)
+
+
 ### امکانات برنامه
 
 - ورود کاربر (Login)
