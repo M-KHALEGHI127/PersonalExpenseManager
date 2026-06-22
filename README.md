@@ -11,11 +11,11 @@ The main goal of this project is to practice object-oriented programming concept
 
 ### Login Form
 
-![Login](Manager/Screenshots/Login.png)
+![Login](Manager/Manager/Screenshots/Login.png)
 
 ### Main Form
 
-![Main Form](Manager/Screenshots/MainForm.png)
+![Main Form](Manager/Manager/Screenshots/MainForm.png)
 
 ### Features
 
